@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ifeolowa</h1>
+<h1 align="center">Hi 👋, I'm Ifeoluwa</h1>
 <h3 align="center">Dynamic Data Scientist with a robust background in Python, SQL, and BI tools, adept at transforming complex datasets into strategic insights to drive business decisions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifeoluwaponle" alt="ifeoluwaponle" /></a> </p>
